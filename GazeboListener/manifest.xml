@@ -1,0 +1,16 @@
+<package>
+	<description brief="reverse_babbler">
+		reverse_babbler
+	</description>
+	<author>Tim Langner</author>
+	<license>BSD</license>
+	<review status="unreviewed" notes=""/>
+	<url>http://ros.org/wiki/reverse_babbler</url>
+	<depend package="std_msgs"/>
+	<depend package="roscpp"/>
+	<depend package="cv_bridge"/>
+	<depend package="sensor_msgs"/>
+	<depend package="theora_image_transport"/>
+	<depend package="nav_msgs"/>
+	<depend package="tf2_msgs"/>
+</package>

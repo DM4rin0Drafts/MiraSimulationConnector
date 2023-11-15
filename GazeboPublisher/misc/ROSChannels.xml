@@ -1,0 +1,33 @@
+<root>
+    <Channels>
+        <key>/camera/camera_info</key>
+        <key>/camera/image</key>
+        <key>/camera/image/compressed</key>
+        <key>/camera/image/compressed/parameter_descriptions</key>
+        <key>/camera/image/compressed/parameter_updates</key>
+        <key>/camera/image/compressedDepth</key>
+        <key>/camera/image/compressedDepth/parameter_descriptions</key>
+        <key>/camera/image/compressedDepth/parameter_updates</key>
+        <key>/camera/image/theora</key>
+        <key>/camera/image/theora/parameter_descriptions</key>
+        <key>/camera/image/theora/parameter_updates</key>
+        <key>/camera/parameter_descriptions</key>
+        <key>/camera/parameter_updates</key>
+        <key>/clock</key>
+        <key>/cmd_vel</key>
+        <key>/gazebo/link_states</key>
+        <key>/gazebo/model_states</key>
+        <key>/gazebo/parameter_descriptions</key>
+        <key>/gazebo/parameter_updates</key>
+        <key>/gazebo/performance_metrics</key>
+        <key>/gazebo/set_link_state</key>
+        <key>/gazebo/set_model_state</key>
+        <key>/imu</key>
+        <key>/joint_states</key>
+        <key>/odom</key>
+        <key>/rosout</key>
+        <key>/rosout_agg</key>
+        <key>/scan</key>
+        <key>/tf</key>
+    </Channels>
+</root>
